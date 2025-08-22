@@ -70,12 +70,6 @@ This project aims to build accurate predictive models for house prices based on 
 
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
 ## 🙌 Acknowledgement
 
 - [Melbourne Housing Market Dataset](https://www.kaggle.com/datasets/dansbecker/melbourne-housing-snapshot)
